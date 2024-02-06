@@ -41,9 +41,7 @@ Wi-Fi Profile Viewer is a simple Python application built using PyQt5 that allow
 ### Contributing
 Feel free to contribute to the project by submitting issues or pull requests.
 
-License
-This project is licensed under the MIT License.
+### License
+This project is licensed under the GPL-3.0 License.
 
-Author
-[Sihab Sahariar]
 
